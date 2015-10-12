@@ -1,6 +1,9 @@
+// Projektorn i klassrummet har 1024x768 som upplösning.
+// Mini-displayport-adapter finns på plats.
+
 img {
 //    height: 700px;
-    width: 400px;
+    width: 500px;
     float: left;
     margin: 0px 30px 0px 0px;
 }

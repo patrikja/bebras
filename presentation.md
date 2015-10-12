@@ -60,21 +60,16 @@ http://bebras.se/
 * Man kan öva hur mycket man vill.
 * Det finns också en **tävling** varje år i november
 
-## Databävern: Uppgifter från Benjamin "år 3014" {.allowframebreaks}
-
+## Databävern: Uppgifter från Benjamin år 3014
 
 * Hur mycket kan Mauri tjäna?
 * Hur många sedlar
 * Plattsättning i badrummet
-* Bävrarnas påklädningsregler
 * Vatten till kon
-* Uppför trapporna
 * Kvadrat
 * Städer
 * Svartvita bilder
-* Labyrint
 * Torn av klossar
-* Längdordning
 * Pappersvikning
 * Den saknade biten
 
