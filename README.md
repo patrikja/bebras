@@ -7,7 +7,7 @@ material i denna
 
 Det handlar alltså om en gästlektion om IT, matematik och Chalmers och
 upplägget är baserat på tävlingen ["Databävern"](http://bebras.se/)
-som genomförs i ett trettiotal länder i November varje år. Så här
+som genomförs i ett trettiotal länder i november varje år. Så här
 beskrivs den på [informationssidan](http://info.bebras.se/):
 
 > Databävern är en populär och inspirerande tävling i datalogiskt
@@ -48,10 +48,11 @@ spännande lektion med många bra frågor, nya tankar och inspirerande
 idéer. Förhoppningen är att några elever ska fortsätta med dessa
 "kluringar" och att hela klassen ska vara med i tävlingen i november.
 
-09.30 Repeterade jag huvudpunkterna: problemlösning underlättas av
-skrivande, forskning och utbildning handlar om nyfikenhet och ny
-kunskap, Chalmers och Göteborgs universitet erbjuder alla ämnen man
-kan tänka sig.
+Vid 09.30 repeterade jag huvudpunkterna:
+
+* problemlösning underlättas av skrivande,
+* forskning och utbildning handlar om nyfikenhet och ny kunskap,
+* Chalmers och Göteborgs universitet erbjuder alla ämnen man kan tänka sig.
 
 ## Vad kommer sedan?
 
